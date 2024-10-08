@@ -1,7 +1,13 @@
 # WatchNext - Movie Review & Recommendation Platform
- 
-This project aims to create a **Movie Review & Recommendation Platform** where users can browse movies, write and rate reviews, and receive personalized movie recommendations. The backend will be built with **ASP.NET Core**, exposing **RESTful APIs** to interact with the database and provide recommendation services, while the frontend will be developed using **React** to offer a responsive, engaging user experience. **CI/CD pipelines** will be integrated to ensure smooth development and deployment cycles.
 
+A hobby project focusing on the technologies:
+- ASP.NET Core
+- React
+- RESTful APIs
+- Azure PaaS
+- CI/CD
+ 
+This project aims to create a **Movie Review & Recommendation Platform** where users can browse movies, write and rate reviews, and receive personalized movie recommendations. The backend will be built with **ASP.NET Core**, exposing **RESTful APIs** to interact with the database and provide recommendation services, while the frontend will be developed using **React** to offer a responsive, engaging user experience. The platform leverages **Azure PaaS** for scalable infrastructure and automated **CI/CD pipelines** to streamline development, deployment, and monitoring.
 Key Features:
 <ul>
  <li /> User Authentication & Authorization
